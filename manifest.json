@@ -1,0 +1,10 @@
+{
+  "id": "do.craft.playground",
+  "name": "Developer Playground",
+  "fileName": "playground",
+  "author": "irom1",
+  "author-email": "craft@septle.com",
+  "description" : "Test craft extension code!",
+  "api": "0.1.0",
+  "main": "playground.html"
+}

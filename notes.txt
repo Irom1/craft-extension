@@ -1,0 +1,3 @@
+To save in terminal:
+cd Documents/Github/craft-extension && zip -vr playground.craftx icon.png playground.html manifest.json
+https://documentation.developer.craft.do/extensions/design-considerations
